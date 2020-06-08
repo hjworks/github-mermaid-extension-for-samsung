@@ -1,6 +1,6 @@
 {
   "name": "GitHub + Mermaid for Samsung",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "manifest_version": 2,
   "description": "A browser extension for Firefox that adds Mermaid language support to GitHub.",
   "icons": {
