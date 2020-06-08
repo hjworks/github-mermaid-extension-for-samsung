@@ -84,6 +84,7 @@ scripts.forEach(script => {
       debug: !production,
     })
     .transform('babelify', {
+      global: true,
       presets: [
         [
           '@babel/env', {
