@@ -34,7 +34,7 @@ const manifest = {
   firefox: {
     applications: {
       gecko: {
-        id: 'github-mermaid-extension@amercier.com'
+        id: 'github-mermaid-extension-for-samsung@hyungjunrho.com'
       }
     }
   }
@@ -84,6 +84,7 @@ scripts.forEach(script => {
       debug: !production,
     })
     .transform('babelify', {
+      global: true,
       presets: [
         [
           '@babel/env', {

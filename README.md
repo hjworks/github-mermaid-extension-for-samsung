@@ -163,3 +163,6 @@ information about the Mermaid syntax.
 Contributions (issues ♥, pull requests ♥♥♥) are more than welcome! Feel free to clone, fork, modify, extend, etc.
 
 See [contributing intructions](/CONTRIBUTING.md) for details.
+
+## Feature for Samsung Electronics
+Visit [GitHub](https://github.com/hjworks/github-mermaid-extension-for-samsung)
